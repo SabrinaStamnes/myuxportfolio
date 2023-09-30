@@ -1,7 +1,32 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+
 *,
 *::before,
 *::after {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+.navTop{
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+.navLiTop{
+    display: inline-block;
+    padding: 20px 30px ;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
 }
